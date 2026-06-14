@@ -1,0 +1,9 @@
+IndicatorCode,Indicator,Location,Period,IsLatestYear,FactValueNumeric,Value,DateModified
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2024,TRUE,45.7,46,2026-04-20T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2022,FALSE,50.7,51,2026-04-20T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2018,FALSE,43.3,43,2026-04-20T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2017,FALSE,43,43,2026-04-20T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2013,FALSE,35,35,2025-04-06T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2011,FALSE,47,47,2025-04-06T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2008,FALSE,34,34,2025-04-06T23:00:00.000Z
+MDG_0000000025,Births attended by skilled health personnel (%),Nigeria,2003,FALSE,35,35,2025-04-06T23:00:00.000Z
